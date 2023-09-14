@@ -213,9 +213,9 @@ padding: 0;
     /* font-size: medium; */
     font-weight: 600;
   }
-  .partition-heading p {
+  .partition-heading h4 {
     color: white;
-    font-size: small;
+    font-size: medium;
     font-weight: 400;
   }
   .partition-img img {
